@@ -618,3 +618,6 @@ div.extra {
 	color: #336699;
 }
 
+p {
+	border: 1px solid black;
+}
